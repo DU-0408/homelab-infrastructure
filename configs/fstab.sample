@@ -1,0 +1,3 @@
+UUID=XXXX /mnt/s1 ext4 defaults 0 2
+/mnt/s1/Movies /srv/jellyfin/Movies none bind 0 0
+/mnt/s1/Web_Shows /srv/jellyfin/Web_Shows none bind 0 0
