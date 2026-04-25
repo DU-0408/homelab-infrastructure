@@ -26,7 +26,7 @@ This project showcases a real-world homelab where services are deployed, automat
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="architecture/diagram-dark.png">
-  <img alt="Architecture Diagram" src="architecture/diagram-light.png">
+  <img alt="Architecture Diagram" src="architecture/diagram-dark.png">
 </picture>
 
 ---
