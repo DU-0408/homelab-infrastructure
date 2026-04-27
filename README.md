@@ -59,6 +59,7 @@ URL/File → Download → Extract → Rename → Move → Jellyfin
 
 ## 📸 Screenshots
 
+![Cockpit](screenshots/metrics.png)
 ![Jellyfin](screenshots/jellyfin.png)
 ![Nextcloud](screenshots/nextcloud.png)
 
