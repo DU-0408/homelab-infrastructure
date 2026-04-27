@@ -64,6 +64,12 @@ URL/File → Download → Extract → Rename → Move → Jellyfin
 
 ---
 
+## 🔗 Related Projects
+
+- [Media Import Tool](https://github.com/DU-0408/media-import-tool)
+
+---
+
 ## ⚠️ Notes
 
 - Sensitive data removed
